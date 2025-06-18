@@ -59,3 +59,4 @@ Credits
 
 Developed by Kevin M.
 Inspired by the need for a simple, network-based remote for DirecTV control.
+![image](https://github.com/user-attachments/assets/fec4bca2-8ed0-4a98-8c3a-6d848dc28bf6)
